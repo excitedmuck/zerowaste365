@@ -1,6 +1,8 @@
 # Creating a Waste Classifier
 
-Code Credits: Universidad de la República,, Uruguay
+Code Credits: Universidad de la República, Uruguay
+URL: https://www.rootstrap.com/blog/how-to-build-a-waste-classifier-app-using-ai
+Repo: https://github.com/xyfer17/Waste-classification-app
 
 Fastai for Zerowaste365 is a deep learning library which provides high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains.
 
