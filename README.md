@@ -1,13 +1,14 @@
-# Using FastAI for creating a Waste Classifier
+# Creating a Waste Classifier
 
-Fastai is a deep learning library which provides high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains.
+Code Credits: Universidad de la República,, Uruguay
+
+Fastai for Zerowaste365 is a deep learning library which provides high-level components that can quickly and easily provide state-of-the-art results in standard deep learning domains.
 
 It has two main design goals:
 
 To be approachable and rapidly productive
 To be also configurable.
 
-## Waste Classifier
 The aim is to build a model for waste classification that identifies among the different classes:
 
 - cardboard
