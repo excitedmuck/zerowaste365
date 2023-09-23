@@ -1,4 +1,5 @@
 # Creating a Waste Classifier
+"Good artists create, great artists steal"
 
 Code Credits: Universidad de la República, Uruguay
 URL: https://www.rootstrap.com/blog/how-to-build-a-waste-classifier-app-using-ai
